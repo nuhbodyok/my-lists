@@ -6,25 +6,16 @@ All links are GitHub repositories I actually reach for when designing, studying,
 > This is a **filtered catalog**, not a full‑coverage list. It focuses on:
 > - General prompt libraries and system‑prompt collections.  
 > - Model‑ & tool‑specific system prompts.  
+> - GPTs‑focused and GPT‑store‑style repos.  
+> - Agent‑style / agentic‑prompt repos.  
 > - Jailbreak, leak‑style, and red‑team‑leaning repos.  
-> - GPTs / agent‑style ecosystems.
-
----
-
-## Quick tour
-
-- 🧠 General prompt libraries & system‑prompt collections  
-- 🎯 Model‑ & tool‑specific prompts (ChatGPT, Claude, Gemini, Grok, Bing, Mixtral, Copilot, Cursor, NotebookLM, Sora, etc.)  
-- 🛠️ GPTs‑focused, GPT‑store‑style, and agent‑style repos  
-- 🔓 Jailbreak, leak‑style, and red‑team‑leaning repos  
-- 🧩 Additional niche and experimental repos  
 
 ---
 
 ## General prompt libraries & system‑prompt collections
 
 - [ai‑boost/awesome‑prompts](https://github.com/ai-boost/awesome-prompts) – Broad prompt‑engineering templates and system‑prompt patterns.  
-- [f/awesome‑chatgpt‑prompts](https://github.com/f/awesome-chatgpt-prompts) – ChatGPT‑focused prompt examples.  
+- [f/awesome‑chatgpt‑prompts](https://github.com/f/awesome-chatgpt-prompts) – ChatGPT‑focused prompts.  
 - [awesome‑chatgpt‑prompts](https://github.com/awesome-chatgpt-prompts) – Another curated ChatGPT‑prompt list.  
 - [browser‑use/awesome‑prompts](https://github.com/browser-use/awesome-prompts) – Browser‑usage‑focused prompts and workflows.  
 - [dontriskit/awesome‑ai‑system‑prompts](https://github.com/dontriskit/awesome-ai-system-prompts) – Curated system prompts for various AI tools.  
@@ -38,7 +29,9 @@ All links are GitHub repositories I actually reach for when designing, studying,
 
 ---
 
-## Model‑ & tool‑specific prompts
+## Model‑ & tool‑specific system prompts
+
+These are **explicitly system‑prompt‑style repos tailored to specific models / tools**.
 
 - [langgptai/awesome‑system‑prompts](https://github.com/langgptai/awesome-system-prompts) – Multi‑model system‑prompt patterns.  
 - [langgptai/awesome‑claude‑prompts](https://github.com/langgptai/awesome-claude-prompts) – Claude‑focused prompts.  
@@ -53,11 +46,13 @@ All links are GitHub repositories I actually reach for when designing, studying,
 - [youmind‑openlab/awesome‑gemini‑3‑prompts](https://github.com/youmind-openlab/awesome-gemini-3-prompts) – Gemini‑3‑focused prompts.  
 - [xjpp22/awesome‑‑sora‑prompts](https://github.com/xjpp22/awesome--sora-prompts) – Sora‑focused prompts.  
 - [geekjourneyx/awesome‑ai‑video‑prompts](https://github.com/geekjourneyx/awesome-ai-video-prompts) – AI video‑generation prompts.  
-- [serenakeyitan/awesome‑notebooklm‑prompts](https://github.com/serenakeyitan/awesome-notebooklm-prompts) – NotebookLM‑focused prompts.
+- [serenakeyitan/awesome‑notebooklm‑prompts](https://github.com/serenakeyitan/awesome-notebooklm-prompts) – NotebookLM‑focused prompts.  
 
 ---
 
-## GPTs‑focused, GPT‑store‑style, and agent‑style repos
+## GPTs‑focused & GPT‑store‑style repos
+
+These are **GPTs‑store‑style catalogs, GPT‑focused instructions, or big GPTs‑prompt lists**.
 
 - [0xeb/TheBigPromptLibrary](https://github.com/0xeb/TheBigPromptLibrary) – Large‑scale prompt library with system prompts, GPT instructions, and jailbreak‑style examples.  
 - [0xAb1d/GPTsSystemPrompts](https://github.com/0xAb1d/GPTsSystemPrompts) – Leaked system instructions for ChatGPT’s custom GPT plugins.  
@@ -70,17 +65,29 @@ All links are GitHub repositories I actually reach for when designing, studying,
 - [ai‑boost/Awesome‑GPTs](https://github.com/ai-boost/Awesome-GPTs) – Curated GPTs‑focused list.  
 - [lxfater/Awesome‑GPTs](https://github.com/lxfater/Awesome-GPTs) – Another GPTs‑focused catalog.  
 - [linexjlin/GPTs](https://github.com/linexjlin/GPTs) – GPTs‑style examples.  
+
+---
+
+## Agent‑style & agentic‑prompt repos
+
+These focus on **building AI agents or multi‑step “agentic” workflows**.
+
 - [4mirfar/promptMaster](https://github.com/4mirfar/promptMaster) – Prompt‑management / organization tool.  
 - [1999AZZAR/gpt‑advance‑prompt‑library](https://github.com/1999AZZAR/gpt-advance-prompt-library) – Advanced GPT prompts.  
 - [2‑fly‑4‑ai/V0‑system‑prompt](https://github.com/2-fly-4-ai/V0-system-prompt) – Example / reference system‑prompt repo.  
 - [BigBoySlave/Agents‑Prompts](https://github.com/BigBoySlave/Agents-Prompts) – Agent‑style prompts and workflows.  
 - [Leonxlnx/agentic‑ai‑prompt‑research](https://github.com/Leonxlnx/agentic-ai-prompt-research) – Research‑style prompts for agentic behavior.  
 - [tallesborges/agentic‑system‑prompts](https://github.com/tallesborges/agentic-system-prompts) – Agentic‑style system‑prompts.  
-- [NeoVertex1/SuperPrompt](https://github.com/NeoVertex1/SuperPrompt) – “Super‑prompt”‑style prompt set.
+- [NeoVertex1/SuperPrompt](https://github.com/NeoVertex1/SuperPrompt) – “Super‑prompt”‑style prompt set.  
+- [Exocija/ZetaLib](https://github.com/Exocija/ZetaLib) – Zeta‑style agent library and prompts.  
+- [oxbshw/System‑Prompt‑Agent‑Prompts](https://github.com/oxbshw/System-Prompt-Agent-Prompts) – Agent‑style system‑prompts.  
+- [openclaw/openclaw/blob/main/src/agents/system‑prompt.ts](https://github.com/openclaw/openclaw/blob/main/src/agents/system-prompt.ts) – Agent‑style system‑prompt in code.  
 
 ---
 
-## Jailbreak, leak‑style, and red‑team‑leaning repos
+## Jailbreak, leak‑style, & red‑team‑leaning repos
+
+These are **jailbreak‑style, leaked‑system‑prompt, or red‑team‑leaning repos**.
 
 - [BlackTechX011/HacxGPT‑Jailbreak‑prompts](https://github.com/BlackTechX011/HacxGPT-Jailbreak-prompts) – Jailbreak‑style prompts for ChatGPT.  
 - [ObservedObserver/ChatGPT‑Jailbreak‑Prompts](https://github.com/ObservedObserver/ChatGPT-Jailbreak-Prompts) – ChatGPT‑specific jailbreak attempts.  
@@ -94,13 +101,12 @@ All links are GitHub repositories I actually reach for when designing, studying,
 - [zebbern/system_prompts_leaks](https://github.com/zebbern/system_prompts_leaks) – Another system‑prompt‑leak repo.  
 - [x1xhlol/system‑prompts‑and‑models‑of‑ai‑tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) – System‑prompts and model‑info for AI tools.  
 - [CyberAlbSecOP/Awesome_GPT_Super_Prompting](https://github.com/CyberAlbSecOP/Awesome_GPT_Super_Prompting) – Security‑and‑offense‑leaning super‑prompting.  
-- [Exocija/ZetaLib](https://github.com/Exocija/ZetaLib) – Zeta‑style agent library and prompts.  
 - [elder‑plinius/Bing‑Prompt‑Leak](https://github.com/elder-plinius/Bing-Prompt-Leak) – Bing‑prompt‑leak‑style examples.  
 - [elder‑plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) – CL4R1T4S‑style meta‑roleplay prompts.  
 - [elder‑plinius/Google‑Bard‑System‑Prompt](https://github.com/elder-plinius/Google-Bard-System-Prompt) – Bard‑system‑prompt‑style examples.  
 - [elder‑plinius/Google‑Gemini‑System‑Prompt](https://github.com/elder-plinius/Google-Gemini-System-Prompt) – Gemini‑system‑prompt‑style examples.  
 - [elder‑plinius/Grok‑System‑Prompt‑Leak](https://github.com/elder-plinius/Grok-System-Prompt-Leak) – Grok‑system‑prompt‑leak‑style examples.  
-- [elder‑plinius/Mixtral‑System‑Prompt‑Leak](https://github.com/elder-plinius/Mixtral-System-Prompt-Leak) – Mixtral‑system‑prompt‑leak‑style examples.
+- [elder‑plinius/Mixtral‑System‑Prompt‑Leak](https://github.com/elder-plinius/Mixtral-System-Prompt-Leak) – Mixtral‑system‑prompt‑leak‑style examples.  
 
 ---
 
@@ -108,9 +114,17 @@ All links are GitHub repositories I actually reach for when designing, studying,
 
 - [adamidarrha/TopGptPrompts](https://github.com/adamidarrha/TopGptPrompts) – “Top‑GPT”‑style prompts.  
 - [weekend‑project‑space/awesome‑aigc‑prompts](https://github.com/weekend-project-space/awesome-aigc-prompts) – Prompts for AI‑generated content (images, audio, etc.).  
-- [openclaw/openclaw/blob/main/src/agents/system‑prompt.ts](https://github.com/openclaw/openclaw/blob/main/src/agents/system-prompt.ts) – Agent‑style system‑prompt in code.  
-- [oxbshw/System‑Prompt‑Agent‑Prompts](https://github.com/oxbshw/System-Prompt-Agent-Prompts) – Agent‑style system‑prompts.  
-- [thekishandev/ai‑system‑prompt](https://github.com/thekishandev/ai-system-prompt) – Simple AI‑system‑prompt examples.
+- [thekishandev/ai‑system‑prompt](https://github.com/thekishandev/ai-system-prompt) – Simple AI‑system‑prompt examples.  
+
+---
+
+## How to use this list
+
+- **Want to learn prompt‑engineering?** Start with `ai‑boost/awesome‑prompts`, `awesome‑system‑prompts`, and model‑specific system‑prompt repos.  
+- **Want to study jailbreaks and leaks?** Focus on the “Jailbreak, leak‑style, & red‑team‑leaning repos” section.  
+- **Want to build GPTs or agents?** Use the GPTs‑focused and agent‑style repos as your main catalogs.  
+
+Pull requests are welcome if you want to add a repo that fits one of these clear categories.
 
 ---
 
